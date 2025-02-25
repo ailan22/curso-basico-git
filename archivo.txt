@@ -1,1 +1,4 @@
 segundo commit 
+
+desde otra rama modificacion del mismo archivo para generar conflicto
+
