@@ -1,0 +1,12 @@
+segundo commit 
+
+desde otra rama modificacion del mismo archivo para generar conflicto
+
+cambios agregados para hacer merge con pull request
+
+<<<<<<< HEAD
+
+Otro cambio en develop y voy hacer merge de rama featureaccesibilidad
+=======
+Este es un cambio de accesibilidad
+>>>>>>> featureaccesibilidad
